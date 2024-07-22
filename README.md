@@ -1,4 +1,4 @@
-# Cultura Blog
+# Cultura Blog - Emanuel Venâncio
 
 Bem-vindo ao repositório do Cultura Blog! Este é o espaço onde compartilho conteúdos sobre educação e desenvolvimento pessoal, viagens e cultura, cultura geral e curiosidades.
 
